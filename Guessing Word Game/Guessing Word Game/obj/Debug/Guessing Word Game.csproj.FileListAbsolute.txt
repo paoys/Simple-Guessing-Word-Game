@@ -1,0 +1,11 @@
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\bin\Debug\Guessing Word Game.exe.config
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\bin\Debug\Guessing Word Game.exe
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\bin\Debug\Guessing Word Game.pdb
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\obj\Debug\Guessing Word Game.csproj.AssemblyReference.cache
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\obj\Debug\Guessing Word Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\obj\Debug\Guessing_Word_Game.frmGuessingGame.resources
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\obj\Debug\Guessing_Word_Game.Properties.Resources.resources
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\obj\Debug\Guessing Word Game.csproj.GenerateResource.cache
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\obj\Debug\Guessing Word Game.csproj.CoreCompileInputs.cache
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\obj\Debug\Guessing Word Game.exe
+C:\Users\Jaspher\source\repos\Guessing Word Game\Guessing Word Game\obj\Debug\Guessing Word Game.pdb
